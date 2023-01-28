@@ -3,7 +3,7 @@
 Timeline of the history of Computer Languages 
 
 ## Table of Languages  
-* [Autocode]
+* [Autocode] (#autocode)
 * [FORTRAN]
 * [ALGOL]
 * [LISP]

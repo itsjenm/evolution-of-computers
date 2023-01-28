@@ -1,0 +1,19 @@
+
+
+.header {
+    text-align: center;
+    
+}
+
+
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+th {
+    color: black;
+    background-color:coral;
+}

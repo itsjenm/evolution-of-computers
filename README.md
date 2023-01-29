@@ -1,6 +1,6 @@
 # Evolution of Computer Languages 
 
-Timeline of the history of Computer Languages 
+Timeline of the history of Computer Languages for CIS 103: Intro to Programming.
 
 ## Table of Languages  
 * Autocode
@@ -12,9 +12,7 @@ Timeline of the history of Computer Languages
 * PASCAL
 * SQL
 * C
-* Smalltalk
 * C++
 * Python
 * Java
-* PHP
 * Javascript
